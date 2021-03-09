@@ -16,7 +16,7 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    const mysearch = new this.state.SearchManager({
+    const mysearch = new this.state.searchManager({
       id: "my_search",
       earliest_time: "-2d@d",
       latest_time: "now",
