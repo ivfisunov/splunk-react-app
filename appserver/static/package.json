@@ -23,7 +23,7 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.0.0",
     "file-loader": "^4.0.0",
-    "highcharts": "^7.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-more": "^0.1.7",
     "highcharts-react-official": "^2.2.2",
     "react": "^16.8.6",
